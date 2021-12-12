@@ -1,0 +1,1 @@
+This Folder consist one or more tasks for Pairwise test-design technique using the PICT tool.
