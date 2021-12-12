@@ -280,4 +280,47 @@ To https://github.com/AndreyGlabay/Portfolio.git
  * [new branch]      Develop -> Develop
 Branch 'Develop' set up to track remote branch 'Develop' from 'origin'.
 
+Admin@Admin MINGW64 /f/Portfolio/05_GIT/Portfolio/06_HTML_CSS (main)
+$ git add .
+
+Admin@Admin MINGW64 /f/Portfolio/05_GIT/Portfolio/06_HTML_CSS (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   AndreyGlabay.jpg
+        new file:   CVindex.docx
+        new file:   CVindex.html
+        new file:   cv.css
+        new file:   favicon.png
+        new file:   floppy.png
+        new file:   printersmall.png
+
+
+Admin@Admin MINGW64 /f/Portfolio/05_GIT/Portfolio/06_HTML_CSS (main)
+$ git commit -m 'Adding HTML section'
+[main 5ca0b07] Adding HTML section
+ 7 files changed, 134 insertions(+)
+ create mode 100644 06_HTML_CSS/AndreyGlabay.jpg
+ create mode 100644 06_HTML_CSS/CVindex.docx
+ create mode 100644 06_HTML_CSS/CVindex.html
+ create mode 100644 06_HTML_CSS/cv.css
+ create mode 100644 06_HTML_CSS/favicon.png
+ create mode 100644 06_HTML_CSS/floppy.png
+ create mode 100644 06_HTML_CSS/printersmall.png
+
+Admin@Admin MINGW64 /f/Portfolio/05_GIT/Portfolio/06_HTML_CSS (main)
+$ git push origin main
+Enumerating objects: 11, done.
+Counting objects: 100% (11/11), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (10/10), done.
+Writing objects: 100% (10/10), 47.78 KiB | 3.67 MiB/s, done.
+Total 10 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/AndreyGlabay/Portfolio.git
+   c762b22..5ca0b07  main -> main
+
 
