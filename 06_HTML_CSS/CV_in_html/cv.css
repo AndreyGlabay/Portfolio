@@ -1,0 +1,45 @@
+h1 {
+    font: 22pt/20pt sans-serif;
+    font-weight: bold;
+    margin-top: 6px;
+    margin-bottom: -1px;
+   }
+h2 {
+    font: 17pt/16pt sans-serif;
+    margin-top: 6px;
+    margin-bottom: -4px;
+   }
+h3 {
+    font: 12pt/16pt sans-serif;
+    margin-top: 5px;
+    margin-bottom: -7px;
+   }
+h4 {
+    font: 12pt/16pt sans-serif;
+    margin-top: 5px;
+    margin-bottom: -3px;
+   }
+h5 {
+    font-weight: bolder;
+    margin-top: 0.4em; 
+    margin-bottom: -0.1em; 
+    font: 14pt/16pt sans-serif; 
+   }
+p {
+    margin-top: 0.4em; 
+    margin-bottom: -0.5em; 
+    font: 12pt/16pt sans-serif; 
+   }
+li {
+   	font: 12pt/16pt sans-serif;
+   }
+footer {
+   	font: 10pt/12pt sans-serif;	
+   	}
+a {
+   		color: #0000cd
+   	}
+.tools
+   	{
+   		color: #0000cd
+   	}
