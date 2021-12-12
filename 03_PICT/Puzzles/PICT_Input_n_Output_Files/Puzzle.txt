@@ -1,0 +1,6 @@
+City: London, Paris, Capetown, Shanghai, Wellington
+Size: 100, 500, 1000, 10000
+Material: Cardboard, Plastic, Wood
+Light-time: Day, Night
+Box-type: Metal, Wood, Cardboard
+Box-color: Multicolor, Grayscale
