@@ -1,0 +1,61 @@
+{
+	"info": {
+		"_postman_id": "ec8e58c8-e64e-4798-ab66-285dbf55f581",
+		"name": "Mock - Code 301",
+		"description": "Mock Server setup. The task has been created using Postman Bootcamp instructions.",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "status3",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "{{url}}/status3",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"status3"
+					]
+				},
+				"description": "Create Mock Server with responce status code 301, and unique message"
+			},
+			"response": [
+				{
+					"name": "Default",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "{{url}}/status3",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"status3"
+							]
+						}
+					},
+					"code": 301,
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": "The site has moved, alas("
+				}
+			]
+		}
+	]
+}

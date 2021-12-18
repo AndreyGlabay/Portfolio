@@ -1,0 +1,53 @@
+{
+	"info": {
+		"_postman_id": "30020d38-2c82-4a35-90a9-af60e5f8bbbe",
+		"name": "XML",
+		"description": "This is **XML** collection documentation.",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "XML",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "text/xml",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "<Envelope xmlns=\"http://schemas.xmlsoap.org/soap/envelope/\">\r\n    <Body>\r\n        <NumberToDollars xmlns=\"http://www.dataaccess.com/webservicesserver/\">\r\n            <dNum>12.95</dNum>\r\n        </NumberToDollars>\r\n    </Body>\r\n</Envelope>",
+					"options": {
+						"raw": {
+							"language": "xml"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://www.dataaccess.com/webservicesserver/numberconversion.wso?WSDL",
+					"protocol": "https",
+					"host": [
+						"www",
+						"dataaccess",
+						"com"
+					],
+					"path": [
+						"webservicesserver",
+						"numberconversion.wso"
+					],
+					"query": [
+						{
+							"key": "WSDL",
+							"value": null
+						}
+					]
+				},
+				"description": "This is documentation about using request to the server in **XML-format**. \n**REMEMBER** to setup **Content-Type: text/xml** in the **Headers** section!"
+			},
+			"response": []
+		}
+	]
+}

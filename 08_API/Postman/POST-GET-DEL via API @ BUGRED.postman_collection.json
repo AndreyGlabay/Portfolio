@@ -1,0 +1,210 @@
+{
+	"info": {
+		"_postman_id": "83caba9d-3690-472d-987e-d590c5781ea3",
+		"name": "POST-GET-DEL via API @ BUGRED",
+		"description": "Collection for use on the site bugred.ru. Simple HTTP requests GET-POST-PUT-DELETE as well as Basic  set of API's tests.",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Registration",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"\r",
+							"pm.test(\"Response time is less than 350ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(350);\r",
+							"});\r",
+							"\r",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "{{URL}}/tasks/rest/doregister?name={{name}}&email={{email}}&password={{password}}",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"tasks",
+						"rest",
+						"doregister"
+					],
+					"query": [
+						{
+							"key": "name",
+							"value": "{{name}}"
+						},
+						{
+							"key": "email",
+							"value": "{{email}}"
+						},
+						{
+							"key": "password",
+							"value": "{{password}}"
+						}
+					]
+				},
+				"description": "Registration on the site bugred.ru, via API, using '/tasks/rest/doregister'"
+			},
+			"response": []
+		},
+		{
+			"name": "Logging",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"\r",
+							"pm.test(\"Response time is less than 350ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(350);\r",
+							"});\r",
+							"\r",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{URL}}/tasks/rest/dologin?email={{email}}&password={{password}}",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"tasks",
+						"rest",
+						"dologin"
+					],
+					"query": [
+						{
+							"key": "email",
+							"value": "{{email}}"
+						},
+						{
+							"key": "password",
+							"value": "{{password}}"
+						}
+					]
+				},
+				"description": "Authorization on the site bugred.ru, via API, using '/tasks/rest/dologin'"
+			},
+			"response": []
+		},
+		{
+			"name": "Getting",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"\r",
+							"pm.test(\"Body matches User name\", function () {\r",
+							"    pm.expect(pm.response.text()).to.include(\"antoniy2\");\r",
+							"});\r",
+							"\r",
+							"pm.test(\"Header Date & Server is present\", function () {\r",
+							"    pm.response.to.have.header(\"Date\");\r",
+							"    pm.response.to.have.header(\"Server\");\r",
+							"});\r",
+							"\r",
+							"pm.test(\"Status code name - OK\", function () {\r",
+							"    pm.response.to.have.status(\"OK\");\r",
+							"});\r",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{URL}}/tasks/rest/getuser?email={{email}}",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"tasks",
+						"rest",
+						"getuser"
+					],
+					"query": [
+						{
+							"key": "email",
+							"value": "{{email}}"
+						}
+					]
+				},
+				"description": "Get info about single user on the site bugred.ru, via API, using '/tasks/rest/getuser'"
+			},
+			"response": []
+		},
+		{
+			"name": "Deleting",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "{{URL}}/tasks/rest/deleteuser?email={{email}}",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"tasks",
+						"rest",
+						"deleteuser"
+					],
+					"query": [
+						{
+							"key": "email",
+							"value": "{{email}}"
+						}
+					]
+				},
+				"description": "Delete single user on the site bugred.ru, via API, using '/tasks/rest/deleteuser'"
+			},
+			"response": []
+		}
+	],
+	"variable": [
+		{
+			"key": "URL",
+			"value": "http://users.bugred.ru"
+		}
+	]
+}
