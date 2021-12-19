@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "4d59cfa6-dd59-40a5-a6f2-3f4f1ca4fc87",
-		"name": "POST-GET-DEL via API @ REGRES",
+		"name": "POST-GET-DEL via API @ REQRES",
 		"description": "Collection for use on the site reqres.in.\nSimple HTTP requests GET-POST-PUT-DELETE.\nAlso Basic API's tests are included.",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
