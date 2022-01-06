@@ -1,0 +1,11 @@
+Started by user [8mha:////4LJeSPMTEs48zAYc7oH0udvE0acou0Y9U8VYzo5Pzl0PAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\Test1
+[Test1] $ cmd /c call C:\Users\Admin1\AppData\Local\Temp\jenkins4822422179576689690.bat
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\Test1>date
+Текущая дата: 03.01.2022 
+Введите новую дату (дд-мм-гг): 
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\Test1>exit 1 
+Build step '┬√яюыэшЄ№ ъюьрэфє Windows' marked build as failure
+Finished: FAILURE

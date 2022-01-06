@@ -1,0 +1,10 @@
+Started by user unknown or anonymous
+Running as SYSTEM
+Building in workspace C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\Test6(JenkinsAlone)
+[Test6(JenkinsAlone)] $ cmd /c call C:\Users\Admin1\AppData\Local\Temp\jenkins1724616629967951809.bat
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\Test6(JenkinsAlone)>echo Jenkins aloooone! 
+Jenkins aloooone!
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\Test6(JenkinsAlone)>exit 0 
+Finished: SUCCESS

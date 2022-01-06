@@ -1,0 +1,13 @@
+Started by user [8mha:////4LJeSPMTEs48zAYc7oH0udvE0acou0Y9U8VYzo5Pzl0PAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\Test1
+[Test1] $ cmd /c call C:\Users\Admin1\AppData\Local\Temp\jenkins5002521438592712431.bat
+The following environment variables were removed by 'Only Keep Specified Environment Variables': , BUILD_DISPLAY_NAME, BUILD_URL, CI, EXECUTOR_NUMBER, HUDSON_HOME, HUDSON_URL, JENKINS_URL, JOB_DISPLAY_URL, JOB_URL, NODE_LABELS, NODE_NAME, RUN_ARTIFACTS_DISPLAY_URL, RUN_CHANGES_DISPLAY_URL, RUN_DISPLAY_URL, RUN_TESTS_DISPLAY_URL, WORKSPACE, WORKSPACE_TMP
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\Test1>JENKINS_HOME
+"JENKINS_HOME" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\Test1>exit 9009 
+Build step '┬√яюыэшЄ№ ъюьрэфє Windows' marked build as failure
+Finished: FAILURE

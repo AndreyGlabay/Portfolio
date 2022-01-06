@@ -1,0 +1,13 @@
+Started by user unknown or anonymous
+Running as SYSTEM
+Building in workspace C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\Test1
+[Test1] $ cmd /c call C:\Users\Admin1\AppData\Local\Temp\jenkins1547668087190235016.bat
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\Test1>chcp 65001 
+Active code page: 65001
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\Test1>winver
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\Test1>exit 0 
+Инициирую новую сборку [8mha:////4APgfC4sStHIWK3/GRmwOBp9Uw/7kUwdrGPfjl+WlI0mAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/az8JP2Q1OISI30AYxLC68AAAAA=[0mTest2
+Finished: SUCCESS

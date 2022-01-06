@@ -1,0 +1,11 @@
+Started by user unknown or anonymous
+Running as SYSTEM
+Building in workspace C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\Test1
+[Test1] $ cmd /c call C:\Users\Admin1\AppData\Local\Temp\jenkins8859111970376606675.bat
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\Test1>date  
+Текущая дата: 04.01.2022 
+Введите новую дату (дд-мм-гг): 
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\Test1>exit 1 
+Build step '┬√яюыэшЄ№ ъюьрэфє Windows' marked build as failure
+Finished: FAILURE

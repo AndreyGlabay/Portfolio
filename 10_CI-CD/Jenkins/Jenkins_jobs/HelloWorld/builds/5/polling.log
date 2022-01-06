@@ -1,0 +1,12 @@
+Started on 04.01.2022 20:36:01
+Using strategy: Default
+[poll] Last Built Revision: Revision 683959584b18a4497680155f989ba663b6da2c4f (refs/remotes/origin/main)
+The recommended git tool is: NONE
+No credentials specified
+ > git.exe --version # timeout=10
+ > git --version # 'git version 2.33.0.windows.2'
+ > git.exe ls-remote -h -- https://github.com/AndreyGlabay/Jenkins-Git-Java.git # timeout=10
+Found 1 remote heads on https://github.com/AndreyGlabay/Jenkins-Git-Java.git
+[poll] Latest remote head revision on refs/heads/main is: 008128a0fa2a0334c8acf3bea12e819dcfa97f6e
+Done. Took 4,8 секунды
+Changes found

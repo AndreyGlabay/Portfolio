@@ -1,0 +1,28 @@
+Started by user [8mha:////4LJeSPMTEs48zAYc7oH0udvE0acou0Y9U8VYzo5Pzl0PAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\HelloWorld
+[HelloWorld] $ cmd /c call C:\Users\Admin1\AppData\Local\Temp\jenkins8139360093541361611.bat
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\HelloWorld>chcp 65001  
+Active code page: 65001
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\HelloWorld>cd C:\Users\Admin1\Desktop\Jenkins-Git-Java  
+
+C:\Users\Admin1\Desktop\Jenkins-Git-Java>javac Hello.java  
+'javac' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Admin1\Desktop\Jenkins-Git-Java>java Hello  
+Hello World...1
+Hello World...2
+Hello World...3
+Hello World...4
+Hello World...5
+Hello World...6
+Hello World...7
+Hello World...8
+Hello World...9
+Hello World...10
+
+C:\Users\Admin1\Desktop\Jenkins-Git-Java>exit 0 
+Finished: SUCCESS

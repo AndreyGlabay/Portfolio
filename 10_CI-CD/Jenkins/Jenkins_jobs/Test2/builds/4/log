@@ -1,0 +1,25 @@
+Started by upstream project "[8mha:////4IMNTNlmryYGcv/nFkvZnOkuIPIzB8UfU4xB0i3KzT/uAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/az8JP2Q1OISQ30AoEHvwMAAAAA=[0mTest1" build number [8mha:////4KMxDEgVQMpGDg00xx4TwI0Xr2wdSGWPpJlxriFLwGl2AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZe/az8JP2Q1OISQ30jUwBQuJaNwgAAAA==[0m25
+originally caused by:
+ Started by user [8mha:////4LJeSPMTEs48zAYc7oH0udvE0acou0Y9U8VYzo5Pzl0PAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\Test2
+[Test2] $ cmd /c call C:\Users\Admin1\AppData\Local\Temp\jenkins567905878547559688.bat
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\Test2>chcp 65001 
+Active code page: 65001
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\Test2>dir
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is A866-BB9B
+
+ Directory of C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\Test2
+
+04.01.2022  14:12    <DIR>          .
+04.01.2022  14:12    <DIR>          ..
+               0 File(s)              0 bytes
+               2 Dir(s)   2В 393В 849В 856 bytes free
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\Test2>exit 0 
+Инициирую новую сборку [8mha:////4DxOrvH5LZB+uwVKKXgJjyEb0cVFvJnU3G2Pv/4TIcnSAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/az8JP2Q1OISY30AIiPZ8sAAAAA=[0mTest3
+Инициирую новую сборку [8mha:////4DxOrvH5LZB+uwVKKXgJjyEb0cVFvJnU3G2Pv/4TIcnSAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/az8JP2Q1OISY30AIiPZ8sAAAAA=[0mTest3
+Finished: SUCCESS

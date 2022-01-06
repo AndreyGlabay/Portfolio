@@ -1,0 +1,25 @@
+Started by upstream project "[8mha:////4E9EUrmBUM1y/5w53o19IYVm91aXua4RNpJYRNDN5BNBAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz+EgZR/az8JP3gxNyCnFSX1IKc/EovIB8AUjFjYMoAAAA=[0mSampleDeployJob" build number [8mha:////4PAuM2QhIroKza7jNS/pPFe1qACFqw5jjdJP+XhjqvhxAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBjH9rPwk/eDE3IKcVJfUgpz8Si8g3wQA4YGhassAAAA=[0m4
+originally caused by:
+ Started by upstream project "[8mha:////4ODX2USE/iYYiXB01FHBS8S4GCZocECYNesUfNpbQBRMAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgYR/az8JP3gxNyCnFSn0sycFC8gFwCmIcYpyQAAAA==[0mSampleBuildJob" build number [8mha:////4OFAsDEFYEkVvkjkllDWfNwJhE1uPvVQFOcS3xtF/zxUAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBlH9rPwk/eDE3IKcVKfSzJwULyDXFACN4F5OygAAAA==[0m5
+ originally caused by:
+  Started by user [8mha:////4LJeSPMTEs48zAYc7oH0udvE0acou0Y9U8VYzo5Pzl0PAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\SampleTestJob
+[SampleTestJob] $ cmd /c call C:\Users\Admin1\AppData\Local\Temp\jenkins8253411970324954103.bat
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\SampleTestJob>dir
+ Том в устройстве C имеет метку Windows8_OS
+ Серийный номер тома: A866-BB9B
+
+ Содержимое папки C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\SampleTestJob
+
+05.01.2022  14:43    <DIR>          .
+05.01.2022  14:43    <DIR>          ..
+               0 файлов              0 байт
+               2 папок   2 222 751 744 байт свободно
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\SampleTestJob>echo "Test Job done successfully!" 
+"Test Job done successfully!"
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\SampleTestJob>exit 0 
+Finished: SUCCESS

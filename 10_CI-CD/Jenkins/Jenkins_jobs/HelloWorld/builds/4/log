@@ -1,0 +1,46 @@
+Запущен изменением в SCM
+Running as SYSTEM
+Building in workspace C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\HelloWorld
+The recommended git tool is: NONE
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/AndreyGlabay/Jenkins-Git-Java.git
+ > git.exe init C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\HelloWorld # timeout=10
+Fetching upstream changes from https://github.com/AndreyGlabay/Jenkins-Git-Java.git
+ > git.exe --version # timeout=10
+ > git --version # 'git version 2.33.0.windows.2'
+ > git.exe fetch --tags --force --progress -- https://github.com/AndreyGlabay/Jenkins-Git-Java.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git.exe config remote.origin.url https://github.com/AndreyGlabay/Jenkins-Git-Java.git # timeout=10
+ > git.exe config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > git.exe rev-parse "refs/remotes/origin/main^{commit}" # timeout=10
+Checking out Revision 683959584b18a4497680155f989ba663b6da2c4f (refs/remotes/origin/main)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f 683959584b18a4497680155f989ba663b6da2c4f # timeout=10
+Commit message: "new file add for make changes in the Git repo"
+First time build. Skipping changelog.
+[HelloWorld] $ cmd /c call C:\Users\Admin1\AppData\Local\Temp\jenkins2734673228813191969.bat
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\HelloWorld>chcp 65001 
+Active code page: 65001
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\HelloWorld>cd C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\Projects\Jenkins-Git-Java 
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\Projects\Jenkins-Git-Java>javac Hello.java  
+'javac' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\Projects\Jenkins-Git-Java>java Hello  
+Hello World...1
+Hello World...2
+Hello World...3
+Hello World...4
+Hello World...5
+Hello World...6
+Hello World...7
+Hello World...8
+Hello World...9
+Hello World...10
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\Projects\Jenkins-Git-Java>exit 0 
+Finished: SUCCESS

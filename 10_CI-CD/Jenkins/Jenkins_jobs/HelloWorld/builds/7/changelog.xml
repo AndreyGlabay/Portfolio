@@ -1,0 +1,10 @@
+commit 8cb8238c497096da7466c5ecea5f85a99b71ce14
+tree 2491473a4d90686b0b652c648ef7122c408fcbc0
+parent 107619df532f569c795bd5651f2baac82a3ede65
+author AndreyGlabay <rishelevsky@gmail.com> 2022-01-04 21:25:13 +0200
+committer AndreyGlabay <rishelevsky@gmail.com> 2022-01-04 21:25:13 +0200
+
+    file Changes-new.txt been modified
+
+
+:100644 100644 c50db33600ded47645fae6394c7912cea735bd95 745f30950d4a46722c962e5b09207ddef80e4ca3 M	Changes-new.txt

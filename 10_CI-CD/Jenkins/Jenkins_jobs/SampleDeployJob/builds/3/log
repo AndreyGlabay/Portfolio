@@ -1,0 +1,24 @@
+Started by upstream project "[8mha:////4ODX2USE/iYYiXB01FHBS8S4GCZocECYNesUfNpbQBRMAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgYR/az8JP3gxNyCnFSn0sycFC8gFwCmIcYpyQAAAA==[0mSampleBuildJob" build number [8mha:////4KBpyk/4aECioQsECFh0RhNVmioSeaUlfIz/lvU8EcxrAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBlH9rPwk/eDE3IKcVKfSzJwULyDXBAAb0Fk5ygAAAA==[0m4
+originally caused by:
+ Started by user unknown or anonymous
+Running as SYSTEM
+Building in workspace C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\SampleDeployJob
+[SampleDeployJob] $ cmd /c call C:\Users\Admin1\AppData\Local\Temp\jenkins1693864741249293868.bat
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\SampleDeployJob>dir
+ Том в устройстве C имеет метку Windows8_OS
+ Серийный номер тома: A866-BB9B
+
+ Содержимое папки C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\SampleDeployJob
+
+05.01.2022  14:43    <DIR>          .
+05.01.2022  14:43    <DIR>          ..
+               0 файлов              0 байт
+               2 папок   2 221 789 184 байт свободно
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\SampleDeployJob>echo "Deploy Job done successfully!" 
+"Deploy Job done successfully!"
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\SampleDeployJob>exit 0 
+╚эшЎшшЁє■ эютє■ ёсюЁъє [8mha:////4KtsxeqXWm+O8OPzJLIq/XWvdHdHcWyT021W82bQvFTGAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZh/az8JP3gxNyCnNSQ1OISLyAPAGSXXGvIAAAA[0mSampleTestJob
+Finished: SUCCESS

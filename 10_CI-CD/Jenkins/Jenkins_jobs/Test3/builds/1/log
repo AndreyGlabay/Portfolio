@@ -1,0 +1,321 @@
+Started by upstream project "[8mha:////4APgfC4sStHIWK3/GRmwOBp9Uw/7kUwdrGPfjl+WlI0mAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/az8JP2Q1OISI30AYxLC68AAAAA=[0mTest2" build number [8mha:////4DxeSg+mMA4ZDGG2YwpOgs5LsgPhWyxj8FMTcVg8lnIwAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBh79rPwk/ZDU4hIjfUMAmFfO/sEAAAA=[0m1
+originally caused by:
+ Started by upstream project "[8mha:////4IMNTNlmryYGcv/nFkvZnOkuIPIzB8UfU4xB0i3KzT/uAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/az8JP2Q1OISQ30AoEHvwMAAAAA=[0mTest1" build number [8mha:////4BHIJk/BeP7iB2BShNNmhPwZerzzVS2LUJHWp3kS34VQAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZe/az8JP2Q1OISQ30jIwDzLfITwgAAAA==[0m22
+ originally caused by:
+  Started by user unknown or anonymous
+Started by upstream project "[8mha:////4APgfC4sStHIWK3/GRmwOBp9Uw/7kUwdrGPfjl+WlI0mAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/az8JP2Q1OISI30AYxLC68AAAAA=[0mTest2" build number [8mha:////4DxeSg+mMA4ZDGG2YwpOgs5LsgPhWyxj8FMTcVg8lnIwAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBh79rPwk/ZDU4hIjfUMAmFfO/sEAAAA=[0m1
+originally caused by:
+ Started by upstream project "[8mha:////4IMNTNlmryYGcv/nFkvZnOkuIPIzB8UfU4xB0i3KzT/uAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/az8JP2Q1OISQ30AoEHvwMAAAAA=[0mTest1" build number [8mha:////4BHIJk/BeP7iB2BShNNmhPwZerzzVS2LUJHWp3kS34VQAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZe/az8JP2Q1OISQ30jIwDzLfITwgAAAA==[0m22
+ originally caused by:
+  Started by user unknown or anonymous
+Running as SYSTEM
+Building in workspace C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\Test3
+[Test3] $ cmd /c call C:\Users\Admin1\AppData\Local\Temp\jenkins5160936712603399708.bat
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\Test3>chcp 65001 
+Active code page: 65001
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\Test3>systeminfo
+
+Host Name:                 ADMIN
+OS Name:                   Майкрософт Windows 8.1 для одного языка
+OS Version:                6.3.9600 N/A Build 9600
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Admin1
+Registered Organization:   
+Product ID:                00179-40273-39552-AAOEM
+Original Install Date:     09.12.2014, 22:35:02
+System Boot Time:          28.12.2021, 16:14:24
+System Manufacturer:       LENOVO
+System Model:              20150
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 42 Stepping 7 GenuineIntel ~2300 Mhz
+BIOS Version:              LENOVO 5ECN95WW(V9.00), 19.12.2012
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             ru;Russian
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius
+Total Physical Memory:     6 008 MB
+Available Physical Memory: 1 011 MB
+Virtual Memory: Max Size:  12 760 MB
+Virtual Memory: Available: 5 577 MB
+Virtual Memory: In Use:    7 183 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\ADMIN
+Hotfix(s):                 300 Hotfix(s) Installed.
+                           [01]: KB2899189_Microsoft-Windows-CameraCodec-Package
+                           [02]: KB2959936
+                           [03]: KB2894852
+                           [04]: KB2894856
+                           [05]: KB2919355
+                           [06]: KB2920189
+                           [07]: KB2931358
+                           [08]: KB2931366
+                           [09]: KB2934514
+                           [10]: KB2934520
+                           [11]: KB2937220
+                           [12]: KB2938772
+                           [13]: KB2939153
+                           [14]: KB2939576
+                           [15]: KB2949621
+                           [16]: KB2950153
+                           [17]: KB2954879
+                           [18]: KB2955164
+                           [19]: KB2956575
+                           [20]: KB2958262
+                           [21]: KB2959626
+                           [22]: KB2961072
+                           [23]: KB2962140
+                           [24]: KB2962409
+                           [25]: KB2962872
+                           [26]: KB2964718
+                           [27]: KB2965142
+                           [28]: KB2965500
+                           [29]: KB2966826
+                           [30]: KB2966828
+                           [31]: KB2966870
+                           [32]: KB2967162
+                           [33]: KB2967917
+                           [34]: KB2968296
+                           [35]: KB2968599
+                           [36]: KB2969817
+                           [37]: KB2971203
+                           [38]: KB2971850
+                           [39]: KB2972103
+                           [40]: KB2972213
+                           [41]: KB2972280
+                           [42]: KB2973201
+                           [43]: KB2974008
+                           [44]: KB2975061
+                           [45]: KB2975719
+                           [46]: KB2976627
+                           [47]: KB2976978
+                           [48]: KB2977765
+                           [49]: KB2978002
+                           [50]: KB2978122
+                           [51]: KB2978126
+                           [52]: KB2979582
+                           [53]: KB2980654
+                           [54]: KB2982998
+                           [55]: KB2984006
+                           [56]: KB2987107
+                           [57]: KB2989647
+                           [58]: KB2989930
+                           [59]: KB2990532
+                           [60]: KB2990967
+                           [61]: KB2993100
+                           [62]: KB2993651
+                           [63]: KB2994290
+                           [64]: KB2995004
+                           [65]: KB2995388
+                           [66]: KB2996799
+                           [67]: KB2998174
+                           [68]: KB2999226
+                           [69]: KB3000850
+                           [70]: KB3003057
+                           [71]: KB3003667
+                           [72]: KB3003727
+                           [73]: KB3004361
+                           [74]: KB3004365
+                           [75]: KB3008242
+                           [76]: KB3008923
+                           [77]: KB3012199
+                           [78]: KB3012235
+                           [79]: KB3012702
+                           [80]: KB3013172
+                           [81]: KB3013531
+                           [82]: KB3013538
+                           [83]: KB3013791
+                           [84]: KB3014442
+                           [85]: KB3015696
+                           [86]: KB3018133
+                           [87]: KB3019978
+                           [88]: KB3020370
+                           [89]: KB3021910
+                           [90]: KB3021952
+                           [91]: KB3023219
+                           [92]: KB3023222
+                           [93]: KB3024751
+                           [94]: KB3024755
+                           [95]: KB3029603
+                           [96]: KB3029606
+                           [97]: KB3030377
+                           [98]: KB3030947
+                           [99]: KB3032359
+                           [100]: KB3033446
+                           [101]: KB3035126
+                           [102]: KB3035487
+                           [103]: KB3036612
+                           [104]: KB3037576
+                           [105]: KB3037579
+                           [106]: KB3037924
+                           [107]: KB3038002
+                           [108]: KB3038314
+                           [109]: KB3038701
+                           [110]: KB3042085
+                           [111]: KB3044374
+                           [112]: KB3044673
+                           [113]: KB3045634
+                           [114]: KB3045685
+                           [115]: KB3045717
+                           [116]: KB3045719
+                           [117]: KB3045755
+                           [118]: KB3045999
+                           [119]: KB3046017
+                           [120]: KB3046480
+                           [121]: KB3046737
+                           [122]: KB3047254
+                           [123]: KB3048043
+                           [124]: KB3049563
+                           [125]: KB3053863
+                           [126]: KB3054169
+                           [127]: KB3054256
+                           [128]: KB3054464
+                           [129]: KB3055323
+                           [130]: KB3055343
+                           [131]: KB3055642
+                           [132]: KB3056347
+                           [133]: KB3058515
+                           [134]: KB3059317
+                           [135]: KB3060793
+                           [136]: KB3061493
+                           [137]: KB3061512
+                           [138]: KB3062760
+                           [139]: KB3063843
+                           [140]: KB3064059
+                           [141]: KB3064209
+                           [142]: KB3065822
+                           [143]: KB3065988
+                           [144]: KB3068708
+                           [145]: KB3071756
+                           [146]: KB3072307
+                           [147]: KB3074228
+                           [148]: KB3074545
+                           [149]: KB3074548
+                           [150]: KB3075220
+                           [151]: KB3075853
+                           [152]: KB3076949
+                           [153]: KB3077715
+                           [154]: KB3078071
+                           [155]: KB3078405
+                           [156]: KB3078676
+                           [157]: KB3080042
+                           [158]: KB3080149
+                           [159]: KB3080800
+                           [160]: KB3082089
+                           [161]: KB3083325
+                           [162]: KB3083711
+                           [163]: KB3084135
+                           [164]: KB3086255
+                           [165]: KB3087038
+                           [166]: KB3087040
+                           [167]: KB3087041
+                           [168]: KB3087137
+                           [169]: KB3087916
+                           [170]: KB3089023
+                           [171]: KB3091297
+                           [172]: KB3093983
+                           [173]: KB3095701
+                           [174]: KB3097992
+                           [175]: KB3097997
+                           [176]: KB3098779
+                           [177]: KB3099406
+                           [178]: KB3099834
+                           [179]: KB3100473
+                           [180]: KB3100773
+                           [181]: KB3102429
+                           [182]: KB3102812
+                           [183]: KB3103616
+                           [184]: KB3103688
+                           [185]: KB3103696
+                           [186]: KB3103699
+                           [187]: KB3103709
+                           [188]: KB3104002
+                           [189]: KB3105216
+                           [190]: KB3109103
+                           [191]: KB3109560
+                           [192]: KB3109976
+                           [193]: KB3110329
+                           [194]: KB3112148
+                           [195]: KB3112336
+                           [196]: KB3115224
+                           [197]: KB3118401
+                           [198]: KB3119147
+                           [199]: KB3121261
+                           [200]: KB3122654
+                           [201]: KB3124275
+                           [202]: KB3126030
+                           [203]: KB3126434
+                           [204]: KB3126587
+                           [205]: KB3127222
+                           [206]: KB3127226
+                           [207]: KB3128650
+                           [208]: KB3132372
+                           [209]: KB3133431
+                           [210]: KB3133690
+                           [211]: KB3134814
+                           [212]: KB3134815
+                           [213]: KB3135449
+                           [214]: KB3135782
+                           [215]: KB3135994
+                           [216]: KB3137728
+                           [217]: KB3138378
+                           [218]: KB3138602
+                           [219]: KB3138615
+                           [220]: KB3138910
+                           [221]: KB3138962
+                           [222]: KB3139398
+                           [223]: KB3139914
+                           [224]: KB3139929
+                           [225]: KB3140185
+                           [226]: KB3140219
+                           [227]: KB3140222
+                           [228]: KB3140234
+                           [229]: KB3141092
+                           [230]: KB3142026
+                           [231]: KB3142030
+                           [232]: KB3144756
+                           [233]: KB3145384
+                           [234]: KB3146604
+                           [235]: KB3146723
+                           [236]: KB3146751
+                           [237]: KB3147071
+                           [238]: KB3148198
+                           [239]: KB3148851
+                           [240]: KB3150513
+                           [241]: KB3154070
+                           [242]: KB3154132
+                           [243]: KB3155784
+Network Card(s):           4 NIC(s) Installed.
+                           [01]: Беспроводной сетевой адаптер Qualcomm Atheros AR9485WB-EG
+                                 Connection Name: Беспроводная сеть
+                                 Status:          Media disconnected
+                           [02]: Контроллер Qualcomm Atheros AR8162/8166/8168 PCI-E Fast Ethernet (NDIS 6.30)
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.0.1
+                                 IP address(es)
+                                 [01]: 192.168.0.104
+                                 [02]: fe80::8122:c2fa:bbad:acd6
+                           [03]: VirtualBox Host-Only Ethernet Adapter
+                                 Connection Name: VirtualBox Host-Only Network
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.56.1
+                                 [02]: fe80::ccf0:372d:3f1d:ebed
+                           [04]: Устройства Bluetooth (личной сети)
+                                 Connection Name: Сетевое подключение Bluetooth
+                                 Status:          Media disconnected
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\Test3>exit 0 
+Finished: SUCCESS

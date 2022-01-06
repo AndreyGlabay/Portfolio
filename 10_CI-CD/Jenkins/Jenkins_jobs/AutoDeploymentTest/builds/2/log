@@ -1,0 +1,36 @@
+Started by user unknown or anonymous
+Running as SYSTEM
+Building in workspace C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\AutoDeploymentTest
+[AutoDeploymentTest] $ cmd /c call C:\Users\Admin1\AppData\Local\Temp\jenkins9027289730612471155.bat
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\AutoDeploymentTest>chcp 65001 
+"chcp" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\AutoDeploymentTest>dir
+ Том в устройстве C имеет метку Windows8_OS
+ Серийный номер тома: A866-BB9B
+
+ Содержимое папки C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\AutoDeploymentTest
+
+05.01.2022  00:38    <DIR>          .
+05.01.2022  00:38    <DIR>          ..
+               0 файлов              0 байт
+               2 папок   2 319 962 112 байт свободно
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\AutoDeploymentTest>exit 0 
+ERROR: Step СDeploy war/ear to a containerТ aborted due to exception: 
+java.lang.InterruptedException: [DeployPublisher][WARN] No wars found. Deploy aborted. %n
+	at hudson.plugins.deploy.DeployPublisher.perform(DeployPublisher.java:107)
+	at jenkins.tasks.SimpleBuildStep.perform(SimpleBuildStep.java:123)
+	at hudson.tasks.BuildStepCompatibilityLayer.perform(BuildStepCompatibilityLayer.java:78)
+	at hudson.tasks.BuildStepMonitor$3.perform(BuildStepMonitor.java:47)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.perform(AbstractBuild.java:806)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.performAllBuildSteps(AbstractBuild.java:755)
+	at hudson.model.Build$BuildExecution.post2(Build.java:178)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.post(AbstractBuild.java:699)
+	at hudson.model.Run.execute(Run.java:1913)
+	at hudson.model.FreeStyleBuild.run(FreeStyleBuild.java:43)
+	at hudson.model.ResourceController.execute(ResourceController.java:99)
+	at hudson.model.Executor.run(Executor.java:432)
+Finished: FAILURE

@@ -1,0 +1,10 @@
+Started from command line by [8mha:////4I4SGacMkET7ul93U7Cp2sXY+hpYkpbl/tim9gxQSQlAAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/dLi1CL9xLz8vMrc/NJiAJjzDjjEAAAA[0manonymous
+Running as SYSTEM
+Building in workspace C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\ConsoleJob
+[ConsoleJob] $ cmd /c call C:\Users\Admin1\AppData\Local\Temp\jenkins8013098347534685951.bat
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\ConsoleJob>echo First steps in Jenkins 
+First steps in Jenkins
+
+C:\Users\Admin1\Desktop\Tools\jenkins-2.319.1\JenkinsHome\workspace\ConsoleJob>exit 0 
+Finished: SUCCESS
