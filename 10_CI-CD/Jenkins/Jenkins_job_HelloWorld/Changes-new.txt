@@ -1,0 +1,8 @@
+This is Test file for new Git repo changes
+
+And follow changes are the newest!
+a. Change #1
+b. Change #2
+c. Change #3
+d. Change #4
+e. Change #5
