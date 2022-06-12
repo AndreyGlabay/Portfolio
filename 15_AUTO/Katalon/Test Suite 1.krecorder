@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+<title>Test Suite 1</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3" data-tags="">Test Case 1 Moyo</td></tr>
+</thead>
+<tbody>
+<tr><td>open</td><td>https://www.moyo.ua/<datalist><option>https://www.moyo.ua/</option></datalist></td><td></td></tr>
+<tr><td>type</td><td>//*[@id = "search-input"]<datalist><option>//*[@id = "search-input"]</option></datalist></td><td>iphone</td></tr>
+<tr><td>sendKeys</td><td>//*[@id = "search-input"]<datalist><option>//*[@id = "search-input"]</option></datalist></td><td>${KEY_ENTER}</td></tr>
+<tr><td>verifyTextPresent</td><td>Результаты поиска<datalist><option>Результаты поиска:</option><option>Результаты поиска</option></datalist></td><td></td></tr>
+<tr><td>verifyTextPresent</td><td>Результаты7поиска7<datalist><option>Результаты поиска:</option><option>Результаты7поиска7</option></datalist></td><td></td></tr>
+<tr><td>verifyElementPresent</td><td>//*[@id="main-wrap"]/main/div/div[2]/div/div[2]/div[2]/div[1]/div[3]/div[3]/button<datalist><option>//*[//*[@id="main-wrap"]/main/div/div[2]/div/div[2]/div[2]/div[1]/div[3]/div[3]/button]</option><option>//*[@element = "//*[@id="main-wrap"]/main/div/div[2]/div/div[2]/div[2]/div[1]/div[3]/div[3]/button"]</option><option>//*[@id="main-wrap"]/main/div/div[2]/div/div[2]/div[2]/div[1]/div[3]/div[3]/button"]</option><option>//*[@id="main-wrap"]/main/div/div[2]/div/div[2]/div[2]/div[1]/div[3]/div[3]/button"</option><option>//*[@id="main-wrap"]/main/div/div[2]/div/div[2]/div[2]/div[1]/div[3]/div[3]/button</option></datalist></td><td></td></tr>
+<tr><td>captureEntirePageScreenshot</td><td><datalist></datalist></td><td></td></tr>
+<tr><td>goBack</td><td><datalist></datalist></td><td></td></tr>
+<tr><td>click</td><td>//*[@class="header_nav"]/li[3]/a<datalist><option>//*[@class="header_nav"]/li[3]/a</option></datalist></td><td></td></tr>
+</tbody></table>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3" data-tags="">Test Case 2 Rozetka</td></tr>
+</thead>
+<tbody>
+<tr><td>open</td><td>https://rozetka.com.ua/<datalist><option>https://rozetka.com.ua/</option></datalist></td><td></td></tr>
+<tr><td>type</td><td>//*[@class="search-form__input ng-untouched ng-pristine ng-valid"]<datalist><option>//*[@id = "search-input"]</option><option>//*[@class = "search-form__input ng-pristine ng-valid ng-touched"]</option><option>/html/body/app-root/div/div/rz-header/rz-main-header/header/div/div/div/form/div/div[1]/input</option><option>//*[@class="search-form__input ng-valid ng-dirty ng-touched"]</option><option>//*[class="header-layout"]</option><option>//*[class="header-layout"]/_ngcontent-rz-client-c111</option><option>//*[class="header-layout"]/input_ngcontent-rz-client-c111</option><option>//*[class="search-form__input-wrapper"]</option><option>//*/html/body/app-root/div/div/rz-header/rz-main-header/header/div/div/div/form/div/div[1]/input</option><option>//*[@class="search-form__input ng-untouched ng-pristine ng-valid"]</option></datalist></td><td>Iphone 12</td></tr>
+<tr><td>click</td><td>//*[@class="button button_color_green button_size_medium search-form__submit ng-star-inserted"]<datalist><option>//*[@id = "search-input"]</option><option>//*[@class = "search-form__input ng-pristine ng-valid ng-touched"]</option><option>//*[@class="search-form__input ng-untouched ng-pristine ng-valid"]</option><option>//*[@class="button button_color_green button_size_medium search-form__submit ng-star-inserted"]</option></datalist></td><td></td></tr>
+<tr><td>goBack</td><td><datalist></datalist></td><td></td></tr>
+<tr><td>verifyElementPresent</td><td>//*[@class="menu-categories menu-categories_type_main"]/li[2]<datalist><option>//*[@class="menu-categories__link"]</option><option>//*[@class="menu-categories__link"]/li[2]/a</option><option>//*[@class="menu-categories__item ng-star-inserted"]/li[2]/a</option><option>//*[@class="menu-categories__item ng-star-inserted"]/li[2]</option><option>//*[@class="menu-categories menu-categories_type_main"]/li[2]</option></datalist></td><td></td></tr>
+<tr><td>verifyElementPresent</td><td>//*[@class="button button--medium button--with-icon menu__toggle ng-star-inserted"]<datalist><option>//*[@class="button button--medium button--with-icon menu__toggle ng-star-inserted"]</option></datalist></td><td></td></tr>
+<tr><td>verifyElementPresent</td><td>//*[@d="m1.9347 0c-1.252938 4.0662-1.9347 8.4419-1.9347 13.0003 0 4.5581.681706 8.9336 1.93455 12.9997h64.13095c1.2528-4.0661 1.9345-8.4416 1.9345-12.9997 0-4.5584-.6818-8.9341-1.9347-13.0003z"]<datalist><option>//*[@d="m1.9347 0c-1.252938 4.0662-1.9347 8.4419-1.9347 13.0003 0 4.5581.681706 8.9336 1.93455 12.9997h64.13095c1.2528-4.0661 1.9345-8.4416 1.9345-12.9997 0-4.5584-.6818-8.9341-1.9347-13.0003z"]</option></datalist></td><td></td></tr>
+<tr><td>verifyElementPresent</td><td>//*[@aria-label="Открыть меню"]<datalist><option>//*[@aria-labael="Открыть меню"]</option><option>//*[@aria-label="Открыть меню"]</option></datalist></td><td></td></tr>
+<tr><td>verifyElementPresent</td><td>//*[@class="header__button ng-star-inserted"]<datalist><option>//*[@class="header__button ng-star-inserted"]</option></datalist></td><td></td></tr>
+<tr><td>verifyElementPresent</td><td>//*[@class="lang__link ng-star-inserted"]<datalist><option>//*[@class="lang__link ng-star-inserted"]</option></datalist></td><td></td></tr>
+</tbody></table>
+</body>
+</html>
